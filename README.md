@@ -1,10 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26782723/README.md)
-## Hi there 👋
-
-
-**Charithanl/charithanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get yo<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Charitha NL</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Charitha NL</h1>
 <h3 align="center">Student</h3>
 
 <p align="center">
